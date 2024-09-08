@@ -1,0 +1,16 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "pork",
+        "price": 50,
+        "image": "https://eknoodle.com/wp-content/uploads/2022/12/44-1024x749.jpg"
+      },
+      {
+        "id": 2,
+        "name": "meat",
+        "price": 60,
+        "image": "https://assets.brandinside.asia/uploads/2023/10/1696498579583.jpg"
+      }
+    ]
+  }
